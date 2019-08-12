@@ -1,3 +1,21 @@
+
+# Imports
+import time
+import random
+
+# Simplified Sleep
+# Enable dev mode to True to skip all waiting time
+# format is slp(amount) where amount is how long the program sleeps in seconds
+def slp(timeInSeconds):
+    time.sleep(timeInSeconds)
+
+
+
+
+
+
+
+
 print("Welcome to another...")
 slp(2)
 print("""
