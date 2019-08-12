@@ -112,6 +112,59 @@ print("\nBrilliant! fantastic name", Name + "!")
 
 slp(0.5)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Yonas Ugly ass code
+
+"""
 startingWeapon = 0
 Generic1stChoice = str(input("You see a SWORD and a magic BOOK lying on the ground, which do you choose to pick up? ")).upper()
 slp(1)
@@ -180,3 +233,4 @@ enemy_health = 0
 enemy = str(0)
 player_health = player.health
 print("you leave the battle with",player.health,"health left.")
+"""
