@@ -109,7 +109,6 @@ slp(2)
 Name = input("\nWith this clean slate pick a name to go by \n>>> ")
 slp(1)
 print("\nBrilliant! fantastic name", Name + "!")
-
 slp(0.5)
 
 
